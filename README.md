@@ -9,6 +9,8 @@
 
 ![Maia2077 GitHub stats](https://github-readme-stats.vercel.app/api?username=Maia2077&show_icons=true&theme=transparent)
 
+[![Maia2077 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maia2077&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias que eu uso💻
 
